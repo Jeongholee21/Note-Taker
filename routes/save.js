@@ -13,7 +13,7 @@ save.post('/', (req, res) => {
       };
   
       fs.readFile('./db/db.json', (err, data) => {
-        if(err) {
+          if(err) {
               console.error(err)
           } else {
               const parsingData = JSON.parse(data);

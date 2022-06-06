@@ -4,7 +4,7 @@ const fs = require('fs');
 deletedb.delete('/:id', (req, res) => {
 
     const { id } = req.params;
-    
+
     fs.readFile('./db/db.json', (err, data) => {
     const parsingData = JSON.parse(data);
 

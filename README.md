@@ -1,7 +1,17 @@
 # Title 
 ## Note Taker Starter Code
 
+## Description 
+You can create and save notes from the page. The saved notes will be displayed in the left side and if you click the left notes, then it presents to the right column. Also, you can go back to add-note mode by clicking + button at the top.
+
 # Live Website
+
+<https://notemaker11.herokuapp.com/>
+
+## Installation
+To install necessary depedencies, run the following command :
+
+**npm install**
 
 ## User Stroy
 
