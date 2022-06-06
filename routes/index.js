@@ -1,8 +1,8 @@
 const express = require('express');
 
-const get = require('./routes/get.js');
-const save = require('./routes/save.js');
-const deletedb = require('./routes/delete.js');
+const get = require('./get.js');
+const save = require('./save.js');
+const deletedb = require('./delete.js');
 
 const app = express();
 
