@@ -6,7 +6,7 @@ You can create and save notes from the page. The saved notes will be displayed i
 
 # Live Website
 
-<https://notemaker11.herokuapp.com/>
+<https://jeongholee21.github.io/Note-Taker/>
 
 ## Installation
 To install necessary depedencies, run the following command :
